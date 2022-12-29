@@ -1,4 +1,6 @@
 ## Changelog
-* afc9647 Reformat dumpSettings(). Will need diagnostics as I revamp copying the .poco directory
-* 5565730 Trying to change dist to ../website
-* a2ea273 Updates
+* 162530e Fix issue #19
+* ff077bb Fix issue #67
+* be96b2f Remove factory theme before even starting
+* 06785aa Remove teratoma theme
+* 8db22ac Update
