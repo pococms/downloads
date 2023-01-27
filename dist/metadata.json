@@ -1,1 +1,1 @@
-{"project_name":"poco","tag":"v3.1","previous_tag":"v0.3.0","version":"3.1","commit":"b5c7d5ee3f55afa4d768ed715ca7d7609ca4f4c6","date":"2023-01-07T02:52:28.066913-08:00","runtime":{"goos":"darwin","goarch":"arm64"}}
+{"project_name":"poco","tag":"v0.6.1","previous_tag":"v0.6.0","version":"0.6.1","commit":"d50bdb5c139b52f51c559be528784f750933160c","date":"2023-01-27T14:01:15.683528-08:00","runtime":{"goos":"darwin","goarch":"arm64"}}
